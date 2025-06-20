@@ -19,25 +19,38 @@
 
 ### 🛠️ Skills & Technologies:
 
-```txt
-💻 Frontend      → HTML, CSS, JavaScript, React, Bootstrap, Tailwind
-🛠️ Backend       → Node.js, Express.js, REST APIs
-📦 Database      → MongoDB, Mongoose
-🔐 Auth & Tokens → JWT, bcrypt, Role-based auth
-🌐 Deployment    → Render, Netlify, Vercel
-🚀 Tools         → Git, GitHub, VSCode, Postman, Figma
+- 💻 **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind  
+- 🛠️ **Backend**: Node.js, Express.js, REST APIs  
+- 📦 **Database**: MongoDB, Mongoose  
+- 🔐 **Auth & Tokens**: JWT, bcrypt, Role-based auth  
+- 🌐 **Deployment**: Render, Netlify, Vercel  
+- 🚀 **Tools**: Git, GitHub, VSCode, Postman, Figma  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnasMuntazir&show_icons=true&theme=radical" alt="Anas's stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasMuntazir&theme=dark&hide_border=true" /> </p>
-📫 Connect With Me:
-💼 LinkedIn: linkedin.com/in/anasmuntazir
+---
 
-📧 Email: anasmuntazir.dev@gmail.com
+### 📊 GitHub Stats
 
-🌐 Portfolio (coming soon): anasmuntazir.dev
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasMuntazir&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-⚡ Fun Fact:
-I'm not just learning tech...
-I'm building real projects, solving real problems, and preparing for a remote future! 💼🌍
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasMuntazir&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me:
+
+- 💼 LinkedIn: [linkedin.com/in/anasmuntazir](https://linkedin.com/in/anasmuntazir)  
+- 📧 Email: `anasmuntazir.dev@gmail.com`  
+- 🌐 Portfolio (coming soon): [anasmuntazir.dev](https://github.com/AnasMuntazir)
+
+---
+
+### ⚡ Fun Fact:
+> I'm not just learning tech...  
+> I'm building real projects, solving real problems, and preparing for a remote future! 💼🌍
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnasMuntazir&label=Profile+Views&color=8000FF&style=flat-square" alt="profile view counter" /> </p> ```
