@@ -40,7 +40,7 @@
 ### 📫 Connect With Me:
 
 - 💼 LinkedIn: [linkedin.com/in/anasmuntazir](https://linkedin.com/in/anasmuntazir)  
-- 📧 Email: `anasmuntazir.@gmail.com`  
+- 📧 Email: `anasmuntazir@gmail.com`  
 - 🌐 Portfolio (coming soon): [anasmuntazir.dev](https://github.com/AnasMuntazir)
 
 ---
